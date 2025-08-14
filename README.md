@@ -44,48 +44,48 @@ IMC = peso / (altura) ^2
 
 - **Tela inicial zerada, pode começar a digitar as informações** 
 
-![Inicio](capturas%20de%20tela/Captura%20de%20tela1.png)
+![Inicio](captura%20de%20tela/Captura%20de%20tela1.png)
 
 ---
 
 - **Exemplo de sobrepeso** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela2.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela2.png)
 
 ---
 
 - **Exemplo de abaixo do peso** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela3.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela3.png)
 
 ---
 
 - **Exemplo de peso ideal** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela4.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela4.png)
 
 ---
 
 - **Exemplo de obesidade I** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela5.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela5.png)
 
 ---
 
 - **Exemplo de obesidade II** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela6.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela6.png)
 
 ---
 
 - **Exemplo de obesidade III** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela7.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela7.png)
 
 ---
 
 - **Exemplo quando nada é digitado e clica no button** 
 
-![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela8.png)
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela8.png)
 
 
